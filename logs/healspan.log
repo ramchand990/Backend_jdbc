@@ -1,0 +1,5 @@
+11-Apr-2023 18:32:51.823+0530 INFO [APAAR155:restartedMain] [HealSpanService] org.springframework.boot.StartupInfoLogger 55 - Starting ClaimApplication using Java 19.0.2 on APAAR155 with PID 18760 (C:\Users\satyavan.rajbhar\project\client\dev\healspan-claim-service-jdbc\target\classes started by satyavan.rajbhar in C:\Users\satyavan.rajbhar\project\client\dev\healspan-claim-service-jdbc)
+11-Apr-2023 18:32:51.865+0530 DEBUG [APAAR155:restartedMain] [HealSpanService] org.springframework.boot.StartupInfoLogger 56 - Running with Spring Boot v2.7.8, Spring v5.3.25
+11-Apr-2023 18:32:51.871+0530 INFO [APAAR155:restartedMain] [HealSpanService] org.springframework.boot.SpringApplication 631 - No active profile set, falling back to 1 default profile: "default"
+11-Apr-2023 18:32:56.450+0530 DEBUG [APAAR155:restartedMain] [HealSpanService] org.springframework.web.filter.GenericFilterBean 242 - Filter 'jwtRequestFilter' configured for use
+11-Apr-2023 18:32:59.218+0530 INFO [APAAR155:restartedMain] [HealSpanService] org.springframework.boot.StartupInfoLogger 61 - Started ClaimApplication in 8.22 seconds (JVM running for 10.59)
